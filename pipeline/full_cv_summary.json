@@ -1,0 +1,431 @@
+{
+ "videos": 346,
+ "cheats": 68,
+ "windows": 7466,
+ "outer_seeds": 5,
+ "inner_seeds": 10,
+ "per_seed": [
+  {
+   "rule": "max",
+   "method": "avg",
+   "outer_seed": 0,
+   "cheats": 68.0,
+   "caught": 59.0,
+   "recall": 0.8676470588235294,
+   "normals": 278.0,
+   "fp": 3.0,
+   "fpr": 0.01079136690647482
+  },
+  {
+   "rule": "max",
+   "method": "avg",
+   "outer_seed": 1,
+   "cheats": 68.0,
+   "caught": 60.0,
+   "recall": 0.8823529411764706,
+   "normals": 278.0,
+   "fp": 2.0,
+   "fpr": 0.007194244604316547
+  },
+  {
+   "rule": "max",
+   "method": "avg",
+   "outer_seed": 2,
+   "cheats": 68.0,
+   "caught": 60.0,
+   "recall": 0.8823529411764706,
+   "normals": 278.0,
+   "fp": 2.0,
+   "fpr": 0.007194244604316547
+  },
+  {
+   "rule": "max",
+   "method": "avg",
+   "outer_seed": 3,
+   "cheats": 68.0,
+   "caught": 61.0,
+   "recall": 0.8970588235294118,
+   "normals": 278.0,
+   "fp": 3.0,
+   "fpr": 0.01079136690647482
+  },
+  {
+   "rule": "max",
+   "method": "avg",
+   "outer_seed": 4,
+   "cheats": 68.0,
+   "caught": 60.0,
+   "recall": 0.8823529411764706,
+   "normals": 278.0,
+   "fp": 4.0,
+   "fpr": 0.014388489208633094
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "outer_seed": 0,
+   "cheats": 68.0,
+   "caught": 55.0,
+   "recall": 0.8088235294117647,
+   "normals": 278.0,
+   "fp": 0.0,
+   "fpr": 0.0
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "outer_seed": 1,
+   "cheats": 68.0,
+   "caught": 58.0,
+   "recall": 0.8529411764705882,
+   "normals": 278.0,
+   "fp": 2.0,
+   "fpr": 0.007194244604316547
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "outer_seed": 2,
+   "cheats": 68.0,
+   "caught": 54.0,
+   "recall": 0.7941176470588235,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "outer_seed": 3,
+   "cheats": 68.0,
+   "caught": 59.0,
+   "recall": 0.8676470588235294,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "outer_seed": 4,
+   "cheats": 68.0,
+   "caught": 55.0,
+   "recall": 0.8088235294117647,
+   "normals": 278.0,
+   "fp": 3.0,
+   "fpr": 0.01079136690647482
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "outer_seed": 0,
+   "cheats": 68.0,
+   "caught": 45.0,
+   "recall": 0.6617647058823529,
+   "normals": 278.0,
+   "fp": 2.0,
+   "fpr": 0.007194244604316547
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "outer_seed": 1,
+   "cheats": 68.0,
+   "caught": 38.0,
+   "recall": 0.5588235294117647,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "outer_seed": 2,
+   "cheats": 68.0,
+   "caught": 35.0,
+   "recall": 0.5147058823529411,
+   "normals": 278.0,
+   "fp": 0.0,
+   "fpr": 0.0
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "outer_seed": 3,
+   "cheats": 68.0,
+   "caught": 35.0,
+   "recall": 0.5147058823529411,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "outer_seed": 4,
+   "cheats": 68.0,
+   "caught": 37.0,
+   "recall": 0.5441176470588235,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "outer_seed": 0,
+   "cheats": 68.0,
+   "caught": 40.0,
+   "recall": 0.5882352941176471,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "outer_seed": 1,
+   "cheats": 68.0,
+   "caught": 30.0,
+   "recall": 0.4411764705882353,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "outer_seed": 2,
+   "cheats": 68.0,
+   "caught": 21.0,
+   "recall": 0.3088235294117647,
+   "normals": 278.0,
+   "fp": 0.0,
+   "fpr": 0.0
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "outer_seed": 3,
+   "cheats": 68.0,
+   "caught": 25.0,
+   "recall": 0.36764705882352944,
+   "normals": 278.0,
+   "fp": 0.0,
+   "fpr": 0.0
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "outer_seed": 4,
+   "cheats": 68.0,
+   "caught": 33.0,
+   "recall": 0.4852941176470588,
+   "normals": 278.0,
+   "fp": 1.0,
+   "fpr": 0.0035971223021582736
+  }
+ ],
+ "summary": [
+  {
+   "rule": "max",
+   "method": "avg",
+   "caught_mean": 60.0,
+   "caught_min": 59.0,
+   "caught_max": 61.0,
+   "recall_mean": 0.8823529411764707,
+   "fp_mean": 2.8,
+   "fp_min": 2.0,
+   "fp_max": 4.0,
+   "fpr_mean": 0.010071942446043166
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "caught_mean": 56.2,
+   "caught_min": 54.0,
+   "caught_max": 59.0,
+   "recall_mean": 0.8264705882352941,
+   "fp_mean": 1.4,
+   "fp_min": 0.0,
+   "fp_max": 3.0,
+   "fpr_mean": 0.005035971223021583
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "caught_mean": 38.0,
+   "caught_min": 35.0,
+   "caught_max": 45.0,
+   "recall_mean": 0.5588235294117647,
+   "fp_mean": 1.0,
+   "fp_min": 0.0,
+   "fp_max": 2.0,
+   "fpr_mean": 0.003597122302158273
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "caught_mean": 29.8,
+   "caught_min": 21.0,
+   "caught_max": 40.0,
+   "recall_mean": 0.4382352941176471,
+   "fp_mean": 0.6,
+   "fp_min": 0.0,
+   "fp_max": 1.0,
+   "fpr_mean": 0.002158273381294964
+  }
+ ],
+ "by_origin": [
+  {
+   "rule": "max",
+   "method": "avg",
+   "split": "holdout",
+   "cheats": 43.0,
+   "caught": 40.0,
+   "recall": 0.930232558139535,
+   "normals": 48.0,
+   "fp": 0.8,
+   "fpr": 0.016666666666666666
+  },
+  {
+   "rule": "max",
+   "method": "avg",
+   "split": "train",
+   "cheats": 25.0,
+   "caught": 20.0,
+   "recall": 0.8,
+   "normals": 230.0,
+   "fp": 2.0,
+   "fpr": 0.008695652173913044
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "split": "holdout",
+   "cheats": 43.0,
+   "caught": 38.8,
+   "recall": 0.9023255813953488,
+   "normals": 48.0,
+   "fp": 0.2,
+   "fpr": 0.004166666666666667
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "split": "train",
+   "cheats": 25.0,
+   "caught": 17.4,
+   "recall": 0.6960000000000001,
+   "normals": 230.0,
+   "fp": 1.2,
+   "fpr": 0.0052173913043478265
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "split": "holdout",
+   "cheats": 43.0,
+   "caught": 25.8,
+   "recall": 0.6,
+   "normals": 48.0,
+   "fp": 1.0,
+   "fpr": 0.020833333333333332
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "split": "train",
+   "cheats": 25.0,
+   "caught": 12.2,
+   "recall": 0.488,
+   "normals": 230.0,
+   "fp": 0.0,
+   "fpr": 0.0
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "split": "holdout",
+   "cheats": 43.0,
+   "caught": 19.8,
+   "recall": 0.4604651162790697,
+   "normals": 48.0,
+   "fp": 0.6,
+   "fpr": 0.0125
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "split": "train",
+   "cheats": 25.0,
+   "caught": 10.0,
+   "recall": 0.4,
+   "normals": 230.0,
+   "fp": 0.0,
+   "fpr": 0.0
+  }
+ ],
+ "thresholds": [
+  {
+   "rule": "max",
+   "method": "avg",
+   "min": 0.9978570163249969,
+   "median": 0.9989439189434052,
+   "max": 0.9997510135173797
+  },
+  {
+   "rule": "max",
+   "method": "single",
+   "min": 0.9983100891113281,
+   "median": 0.9995166063308716,
+   "max": 0.999832272529602
+  },
+  {
+   "rule": "mean",
+   "method": "avg",
+   "min": 0.7595014224442738,
+   "median": 0.9326456000859087,
+   "max": 0.9686970307068392
+  },
+  {
+   "rule": "mean",
+   "method": "single",
+   "min": 0.8770218484781005,
+   "median": 0.9582818614112006,
+   "max": 0.9933139437978918
+  }
+ ],
+ "auc": [
+  {
+   "outer_seed": 0,
+   "window_auc": 0.986955078779752,
+   "video_auc_max": 0.9955035971223022,
+   "video_auc_mean": 0.9934405416842996
+  },
+  {
+   "outer_seed": 1,
+   "window_auc": 0.9881538160688345,
+   "video_auc_max": 0.9974079559881507,
+   "video_auc_mean": 0.9946572154041472
+  },
+  {
+   "outer_seed": 2,
+   "window_auc": 0.9881135322382387,
+   "video_auc_max": 0.9958738891239949,
+   "video_auc_mean": 0.9951333051206094
+  },
+  {
+   "outer_seed": 3,
+   "window_auc": 0.9885289417812047,
+   "video_auc_max": 0.9951333051206095,
+   "video_auc_mean": 0.9953977994075328
+  },
+  {
+   "outer_seed": 4,
+   "window_auc": 0.9884074198234439,
+   "video_auc_max": 0.9957680914092255,
+   "video_auc_mean": 0.9955035971223021
+  }
+ ]
+}
